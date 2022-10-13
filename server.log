@@ -1,0 +1,63 @@
+server running.......
+dbconnected
+Details
+[0;36mMongoose:[0m newcols.find({}, { projection: { name: [33m1[39m, _id: [33m0[39m } })
+object [
+    {
+        "name": "nagesh"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "sdf3243"
+    },
+    {
+        "name": "naresh"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "wqdsxa"
+    },
+    {
+        "name": "srihari"
+    },
+    {
+        "name": "wqdsxa"
+    },
+    {
+        "name": "sandhya"
+    },
+    {
+        "name": "chinni"
+    },
+    {
+        "name": "NareshNimmala"
+    },
+    {
+        "name": "subrahmanyam"
+    },
+    {
+        "name": "prasanth"
+    },
+    {
+        "name": "nitish"
+    }
+]
