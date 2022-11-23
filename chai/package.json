@@ -1,0 +1,19 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "async-series": "^0.0.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0",
+    "mongoose": "^6.7.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
